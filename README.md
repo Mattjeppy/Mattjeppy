@@ -1,7 +1,5 @@
-<h2 align="center">DevOps</h2>
 
 ###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="40" alt="amazonwebservices logo"  />
   <img width="12" />
@@ -23,9 +21,6 @@
 </div>
 
 ###
-
-<h2 align="center">Programming</h2>
-
 ###
 
 <div align="center">
@@ -54,7 +49,6 @@
 
 ###
 
-<h2 align="center">Operating Systems</h2>
 
 ###
 
