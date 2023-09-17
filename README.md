@@ -68,6 +68,6 @@
 
 ###
 
-<h3 align="left">Currently looking for DevOps, Full-Stack and Data opportunities.</h3>
+<h3 align="center">Currently looking for DevOps, Full-Stack and Data opportunities.</h3>
 
 ###
